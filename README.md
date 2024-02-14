@@ -1,5 +1,6 @@
 # E-commerce Back End Starter Code
 Installation
+
 write your credentials for the database into the .env file
 run SQL commands in schema.sql
 Open the terminal and run commands:
